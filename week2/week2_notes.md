@@ -37,6 +37,19 @@
 - ![alt text](image-1.png)
 
 ## Big-O notation
-
+- Big-O acts as an upper bound
+    - ![alt text](image-6.png)
+    - ![alt text](image-7.png)
 ## Omega notation
 - Omega acts as a lower bound
+- Can be higher than T(N) in lower values
+- Must always be equal or lower than T(N) at higher values/going to infinity
+    - ![alt text](image-3.png)
+    - ![alt text](image-4.png)
+    - ![alt text](image-5.png)
+
+## Theta notation
+- Acts as upper AND lower bound, depending on the Constant
+    - ![alt text](image-8.png)
+    - ![alt text](image-9.png)
+    - ![alt text](image-10.png)
