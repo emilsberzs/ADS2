@@ -10,3 +10,12 @@
 
 ## From iteration to recursion
 - ![alt text](image-3.png)
+
+## Writing a recirsive algorithm
+- ![alt text](image-4.png)
+- ![alt text](image-5.png)
+### Recursive Linear Search algorithm 
+1. First we check if array isnt empty. 
+2. If not, we check if last element is the one we're after. 
+3. If not, we pass it on as recursive case with N-1
+- ![alt text](image-7.png)
